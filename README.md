@@ -5,7 +5,7 @@
 This repo contains code of a recreation of **[Bokoko33's award-winning website](https://bokoko33.me/)**. The original creator asks to please not use this _exact_ idea,
 but feel free to use it as a starting point/inspiration.
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
+![image](https://user-images.githubusercontent.com/105360669/232689635-49a02196-403e-4381-af98-095d522258a8.png)
 
 ## Instructions
 
